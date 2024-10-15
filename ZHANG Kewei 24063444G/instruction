@@ -1,0 +1,3 @@
+This is a web page based on the LM studio
+The user enters a web page and enters an arbitrary word, after which a randomly generated philosophical sentence containing that word is generated
+After installing the required resources, open LM studio and type “python app.py” in the terminal to run it.
